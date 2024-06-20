@@ -1,8 +1,7 @@
-# React + Vite
+TodoList 연습
+기간 : 2024.06.20.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 추가한 기능
+1) input[type=text]에 작성 후 추가 버튼 클릭 시 내용 하단 li로 연결해 화면 노출
+2) 완료한 사항 ✔️ 클릭 시 빨간 중앙선 처리
+3) 삭제버튼 클릭 시 내용 삭제
